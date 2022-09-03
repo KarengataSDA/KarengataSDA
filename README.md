@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 This is KarengataSDA Church(https://karengatasda.org/)
+### Hi there 👋 This is [KarengataSDA Church](https://karengatasda.org/)
 > Dev Community 
 
 <div>
