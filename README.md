@@ -1,13 +1,10 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://yt3.ggpht.com/ytc/AMLnZu9xuOcaz6x1eIQh3JvqPjR_X2oz4_p_cnjGxisfJQ=s900-c-k-c0x00ffffff-no-rj" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
 ### Hi there 👋 This is KarengataSDA Church(https://karengatasda.org/)
 > Dev Community 
-
-
-<img src="https://yt3.ggpht.com/ytc/AMLnZu9xuOcaz6x1eIQh3JvqPjR_X2oz4_p_cnjGxisfJQ=s900-c-k-c0x00ffffff-no-rj" alt="karengataSDA" />
 
 <div>
  <p>
